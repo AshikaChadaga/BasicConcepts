@@ -1,2 +1,2 @@
 # BasicConcepts
-Bridgelabz: ReactJs : Basic Concepts
+Bridgelabz: ReactJS : Basic Concepts
